@@ -1,6 +1,6 @@
 # Web_Version_Of_Group_Chat
 
-**Disclaimer My GF is chinese so some I know that some of my chinese translations are not "proper" but idc....**        
+**I made this to talk to my chinese friends so some of the chinese translations are off and they've told me about it but im leaving them there to piss them off ❤️....**        
 
 -----
 
