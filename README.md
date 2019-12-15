@@ -40,9 +40,6 @@ public void onMessage(Session session, String message) {
 
 ![image](https://user-images.githubusercontent.com/25066959/70867643-a9313400-1f45-11ea-8149-e8d867310f35.png)    
 
-The front-end code is very simple, put on github   
-address is: [link](https://github.com/erlieStar/spring-boot-websocket)    
-
 online room address:
 http://www.loljoingme.com:8090/       
 
