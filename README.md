@@ -11,7 +11,8 @@ With that in mind WebSocket makes data exchange between the client and server ea
 
 In the WebSocket API, the browser and server only need to perform a handshake action, and then a fast channel is formed between the browser and the server. Data can be transferred directly between the two.    
 
-In order to implement push, many companies use Ajax polling, that is, the browser sends HTTP requests to the server at specific intervals, and then the server returns the latest data to the client's browser. This traditional model brings a very obvious disadvantage, that is, the browser needs to continuously make requests to the server, but the HTTP request may contain a long header, and the truly effective data may only be a small part, which obviously will be wasted. A lot of bandwidth and other resources. Websocket can solve these problems.    
+In order to implement push, many companies use Ajax polling, that is, the browser sends HTTP requests to the server at specific intervals, and then the server returns the latest data to the client's browser. This traditional model brings a very obvious disadvantage, that is, the browser needs to continuously make requests to the server, but the HTTP request may contain a long header, and the truly effective data may only be a small part, which obviously will be wasted. A lot of bandwidth and other resources. Websocket can solve these problems.     
+
 -----
 
 ## How this works
