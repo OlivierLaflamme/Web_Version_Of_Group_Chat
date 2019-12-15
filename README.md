@@ -1,5 +1,10 @@
 # Web_Version_Of_Group_Chat
 
+![BUILD](https://img.shields.io/badge/build-failing-red)
+![JOKE](https://img.shields.io/badge/Sadness__Level-Critical-red)
+![Time](https://img.shields.io/badge/Time%20To%20Work%20On%20This-Nonexistent-green)
+
+
 **I made this to talk to my chinese friends so some of the chinese translations are off and they've told me about it but im leaving them there to piss them off ❤️....**        
 
 -----
