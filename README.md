@@ -40,9 +40,16 @@ public void onMessage(Session session, String message) {
 
 ![image](https://user-images.githubusercontent.com/25066959/70867643-a9313400-1f45-11ea-8149-e8d867310f35.png)    
 
-**Passing parameters** 
+The front-end code is very simple, put on github   
+address is: [link](https://github.com/erlieStar/spring-boot-websocket)    
 
-Add @PathParam parameter to the method    
+online room address:
+http://www.loljoingme.com:8090/       
+
+![image](https://user-images.githubusercontent.com/25066959/70867773-1f826600-1f47-11ea-98f7-0d6dac240cad.png)    
+
+
+
 
 ----- 
 
